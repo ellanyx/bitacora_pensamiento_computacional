@@ -88,5 +88,25 @@ Tracklist
 - Secciones de código entregadas por la IA
 
 ```js
-//código entregado por IA acá
+  // Diagonal
+  posX = posX + velX * dir;
+  posY = posY + velY * dir;
+
+  // Cambia cuando llega al centro
+  if (posX <= 160) {
+    dir = -1;
+  }
+  // Cambia de posición
+  if (posY >= 120) {
+    dir = -1;
+  }
+  
+  // Cuando vuelve arriba a la derecha recupera la posición inicial
+  if (posX >= 320) {
+    dir = 1;
+  }
+  // Cuando vuelve
+  if (posY <= -30) {
+    dir = 1;
+  }
 ```
