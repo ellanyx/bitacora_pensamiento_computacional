@@ -29,7 +29,7 @@
 
 - Aspecto del álbum a desarrollar (premisa)
 
-> Lorem ipsum blablabla
+> La premisa de mi álbum está inspirada en la canción Sin Despertar de Kudai, la cual me genera mucha nostalgia porque mi mamá y mi hermana la escuchaban cuando yo era pequeña. A partir de la frase “sin despertar ni bajar, de esta estrella fugaz, que en su luz, vuelas tú, viajando en un cielo azul", decidí representar un cielo azul con una estrella atravesando la ciudad. Además, tomé inspiración del video original de esta canción, grabado en Parque O'Higgins, donde puede verse el cielo atrás de la banda, también se menciona el cielo nocturno en la canción, por lo que utilicé distintos tonos de azul para transmitir tanto la sensación de día como de noche.
 
 ## Conclusión del proceso
 
@@ -69,13 +69,13 @@
 
 ### Declaración sobre el uso de IA
 
-- IA utilizada(s) y tipo de licencia (pago, gratuita)
+- IA utilizada
 
-> Chatgpt gratis, Claude pagado, etc
+> Chatgpt gratis.
 
 - Problema a resolver a través de la IA
 
-> Generación de grillas, animación de imagen, etc
+> Hacer que la imágen png baje en diagonal.
 
 - Prompts utilizados
 
