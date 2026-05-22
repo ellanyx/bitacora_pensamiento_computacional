@@ -1,6 +1,7 @@
 ## Integrantes del grupo
 
 - Fiorella Miranda [cuentaGithub] (https://github.com/ellanyx)
+https://editor.p5js.org/ellanyx33/sketches/5oLHfyllP
 
 ## Descripción del disco
 
@@ -52,19 +53,21 @@ Tracklist
 ### Bloque de código 1
 
 ```js
-// Tu pedazo de código acá
+//  let (star); Variable vacía que contendrá una imagen que se subirá a P5js 
+// star = loadImage("./star.png"); Se selecciona la imagen que se asociará a "star" para usarse repetidamente bajo star sin tener que ponerla una y otra vez
 ```
 
 ### Bloque de código 2
 
 ```js
-// Tu pedazo de código acá
+// velX y velY Corresponden a las coordenadas de la estrella inicial, velX indica el movimiento horizontal y velY indica el movimiento vertical
 ```
 
 ### Bloque de código 3
 
 ```js
-// Tu pedazo de código acá
+// fondo = fondo + 0.2; Indica que el azul irá haciéndose más claro en cada fotograma
+// if (fondo > 240) Indica el límite, si el fondo es menor a 240 este volverá al azul oscuro
 ```
 
 ### Declaración sobre el uso de IA
