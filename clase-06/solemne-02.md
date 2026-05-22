@@ -4,7 +4,7 @@
 
 ## Descripción del disco
 
-![Portada de álbum Vuela](./img/solemne2-miranda-fiorella.png.jpg)
+![Portada de álbum Vuelo](./img/solemne2-miranda-fiorella.png)
 
 - Vuelo
 - 2004
