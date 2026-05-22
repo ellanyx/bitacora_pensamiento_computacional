@@ -41,7 +41,7 @@ Tracklist
 
 - Cosas no conseguidas
 
-> Lorem ipsum blablabla
+> Hacer que la estrella cambie de tamaño
 
 - Descubrimientos al trabajar
 
