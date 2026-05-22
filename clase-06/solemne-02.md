@@ -79,7 +79,7 @@ Tracklist
 
 - Prompts utilizados
 
-> Prompt 1
+> Quiero que la variable let star; aparezca desde la esquina superior derecha y baje en diagonal hasta el medio, cuando llegue al medio que vaya de vuelta a la esquina superior derecha en un bucle de movimiento.
 
 > Prompt 2
 
