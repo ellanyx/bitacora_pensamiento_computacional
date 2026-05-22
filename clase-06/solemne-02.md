@@ -9,9 +9,9 @@
 - Vuelo
 - 2004
 - Kudai
-- Tracklist
 
 ```txt
+Tracklist 
 1. Escapar
 2. Sin Despertar
 3. Ya nada queda
@@ -75,7 +75,7 @@
 
 - Problema a resolver a través de la IA
 
-> Hacer que la imágen png baje en diagonal.
+> Hacer que la imágen png baje en diagonal desde la equina superior derecha hasta el centro a la izquierda.
 
 - Prompts utilizados
 
